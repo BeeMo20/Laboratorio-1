@@ -1,0 +1,31 @@
+FORMATO DETTAGLIATO
+
+1)
+Nome del Caso d’Uso: InserisciContatto
+Portata: Rubrica
+Livello: Obiettivo Utente
+Attore Primario: Utente
+Parti Interessate e Interessi:
+	- Utente : Vuole inserire nuovi contatti alla sua rubrica, in modo da facilitare le chiamate e lo scambio di messaggi.
+Garanzia di successo: Il contatto viene aggiunto con successo in rubrica 
+Scenario Principale di Successo: 
+	1. L'Utente inserisce il nome del contatto
+	2. L'Utente inserisce il numero di telefono del contatto
+	3. L'Utente inserisce una descrizione del contatto
+	4. La rubrica viene aggiornata con il nuovo contattto 
+Frequenza di ripetizione: Sempre
+
+
+1)
+Nome del Caso d’Uso: RimuoviContatto
+Portata: Rubrica
+Livello: Obiettivo Utente
+Attore Primario: Utente
+Parti Interessate e Interessi:
+	- Utente : Vuole rimuovere un contatto già esistente nella sua rubrica, cosi da organizzare meglio la propria rubrica
+Garanzia di successo: Il contatto viene rimosso con successo dalla rubrica 
+Scenario Principale di Successo:
+	1.L'Utente cerca il contatto da rimuovere
+	2.L'Utente chiede al sistema di rimuovere il contatto
+	3.Il Sistema rimuove definitivamente il contatto
+Frequenza di ripetizione: Sempre
